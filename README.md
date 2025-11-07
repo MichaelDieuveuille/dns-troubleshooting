@@ -26,11 +26,14 @@
 
 <h2>Actions and Observations</h2>
 
-<p><img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Ping Failure"/></p>
+<img width="2559" height="766" alt="Screenshot 2025-11-07 113643" src="https://github.com/user-attachments/assets/ef9deaf1-4d21-45ed-aa15-c6fd6e093b4a" />
+
 <p>Initial ping attempts failed due to missing DNS records.</p>
 
-<p><img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="nslookup Diagnostics"/></p>
+<img width="2559" height="1199" alt="Screenshot 2025-11-07 113835" src="https://github.com/user-attachments/assets/6808e5f0-d45a-4c61-bbf2-a7faf60be87f" />
+
 <p>Used <code>nslookup</code> to confirm DNS record absence.</p>
 
-<p><img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Fixed DNS Records"/></p>
+<img width="2559" height="1264" alt="Screenshot 2025-11-07 114103" src="https://github.com/user-attachments/assets/31ed0990-b6ab-4959-bc58-956990b4c404" />
+
 <p>After record updates, DNS resolution succeeded across the domain.</p>
